@@ -1,0 +1,9 @@
+C:\Users\jfber\source\repos\JFDAL\JFDAL\bin\Release\netstandard2.0\JFDAL.deps.json
+C:\Users\jfber\source\repos\JFDAL\JFDAL\bin\Release\netstandard2.0\JFDAL.dll
+C:\Users\jfber\source\repos\JFDAL\JFDAL\bin\Release\netstandard2.0\JFDAL.pdb
+C:\Users\jfber\source\repos\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.csprojAssemblyReference.cache
+C:\Users\jfber\source\repos\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.csproj.CoreCompileInputs.cache
+C:\Users\jfber\source\repos\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.AssemblyInfoInputs.cache
+C:\Users\jfber\source\repos\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.AssemblyInfo.cs
+C:\Users\jfber\source\repos\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.dll
+C:\Users\jfber\source\repos\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.pdb
