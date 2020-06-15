@@ -140,7 +140,7 @@
           }
         }
       },
-      "JFDAL/1.0.0": {
+      "JFDAL/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -539,7 +539,7 @@
         "version.txt"
       ]
     },
-    "JFDAL/1.0.0": {
+    "JFDAL/1.0.1": {
       "type": "project",
       "path": "../JFDAL/JFDAL.csproj",
       "msbuildProject": "../JFDAL/JFDAL.csproj"
@@ -547,7 +547,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "JFDAL >= 1.0.0"
+      "JFDAL >= 1.0.1"
     ]
   },
   "packageFolders": {

@@ -5,6 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>JF Bergado</Authors>
     <Product />
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

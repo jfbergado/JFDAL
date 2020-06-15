@@ -7,3 +7,12 @@ C:\Users\jfber\source\repos\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.Assembl
 C:\Users\jfber\source\repos\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.AssemblyInfo.cs
 C:\Users\jfber\source\repos\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.dll
 C:\Users\jfber\source\repos\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.pdb
+C:\Users\jfber\OneDrive\Documents\GitHub\JFDAL\JFDAL\JFDAL\bin\Release\netstandard2.0\JFDAL.deps.json
+C:\Users\jfber\OneDrive\Documents\GitHub\JFDAL\JFDAL\JFDAL\bin\Release\netstandard2.0\JFDAL.dll
+C:\Users\jfber\OneDrive\Documents\GitHub\JFDAL\JFDAL\JFDAL\bin\Release\netstandard2.0\JFDAL.pdb
+C:\Users\jfber\OneDrive\Documents\GitHub\JFDAL\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.csprojAssemblyReference.cache
+C:\Users\jfber\OneDrive\Documents\GitHub\JFDAL\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.AssemblyInfoInputs.cache
+C:\Users\jfber\OneDrive\Documents\GitHub\JFDAL\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.AssemblyInfo.cs
+C:\Users\jfber\OneDrive\Documents\GitHub\JFDAL\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.csproj.CoreCompileInputs.cache
+C:\Users\jfber\OneDrive\Documents\GitHub\JFDAL\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.dll
+C:\Users\jfber\OneDrive\Documents\GitHub\JFDAL\JFDAL\JFDAL\obj\Release\netstandard2.0\JFDAL.pdb
