@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JFDAL", "JFDAL\JFDAL.csproj", "{B412B413-6F1A-49F7-9906-2B2181760BE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JFDAL", "JFDAL\JFDAL.csproj", "{B412B413-6F1A-49F7-9906-2B2181760BE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testjfdal", "testjfdal\testjfdal.csproj", "{ED652C2D-5080-4406-80F5-5DA021BDB3F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B412B413-6F1A-49F7-9906-2B2181760BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B412B413-6F1A-49F7-9906-2B2181760BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B412B413-6F1A-49F7-9906-2B2181760BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED652C2D-5080-4406-80F5-5DA021BDB3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED652C2D-5080-4406-80F5-5DA021BDB3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED652C2D-5080-4406-80F5-5DA021BDB3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED652C2D-5080-4406-80F5-5DA021BDB3F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

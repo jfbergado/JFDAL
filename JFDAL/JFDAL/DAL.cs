@@ -12,6 +12,30 @@ namespace JFDAL
         SqlParameter param = new SqlParameter();
 
 
+        private string DynConn;
+        private string DynConnVal
+        {
+            get
+            {
+                return DynConn;
+            }
+
+            set
+            {
+                DynConn = value;
+            }
+        }
+
+        public string ConnectionString(string Server_Name, string Db_Name, string UserId, string Password)
+        {
+            return DynConnVal = string.Format(@"Data Source={0};Initial Catalog={1};User ID={2};Password={3}"
+                                                , Server_Name
+                                                , Db_Name
+                                                , UserId
+                                                , Password
+                                             );
+        }
+
         #region Create Parameter
         /*Create Parameter in Model*/
         public List<SqlParameter> CreateParameter(dynamic model)
@@ -112,5 +136,7 @@ namespace JFDAL
             }
             return dt;
         }
+
+
     }
 }
